@@ -1,5 +1,3 @@
-# Track1_Day17_2A202601633_NguyenDucDat
-
 **Từ Solution Directive đến Problem Hypothesis — Case C: AI Support Radar (VLearn)**
 
 ---
@@ -30,7 +28,7 @@ Track1_Day17_2A202601633_NguyenDucDat/
 ├── interview/
 │   ├── notes.md                                           ← Chặng 3: Interview Record đã điền
 │   ├── transcript.md                                      ← transcript bản ghi (bóc offline)
-│   └── Phỏng Vấn Day17.m4a                                ← bản ghi 4'35" ⚠️ xem lưu ý consent
+│   └── Phỏng Vấn Day17.m4a                               
 └── .gitignore
 ```
 
